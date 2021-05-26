@@ -8,9 +8,15 @@ We present a two-level parameterized Model Order Reduction (pMOR) technique for 
 
 Citation:
 
-@article{Bhouri2020PRRBC, \\
-  title={A two-level parameterized model-order reduction approach for time-domain elastodynamics}, \\
-  author={Bhouri, Mohamed Aziz and Patera, Anthony T. Patera}, \\
-  journal={arXiv preprint arXiv:2002.11084v2 [math.NA, CS.NA]}, \\
-  year={2020} \\
+@article{Bhouri2020PRRBC,
+
+  title={A two-level parameterized model-order reduction approach for time-domain elastodynamics},
+  
+  author={Bhouri, Mohamed Aziz and Patera, Anthony T. Patera}, 
+  
+  journal={arXiv preprint arXiv:2002.11084v2 [math.NA, CS.NA]}, 
+  
+  
+  year={2020} 
+  
 }
